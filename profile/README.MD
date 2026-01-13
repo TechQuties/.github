@@ -1,19 +1,28 @@
-# TechQuties
-# 🚀TechQutiesTechnologies
 
-We are a software development company focused on building scalable, secure,
-and high-performance web & mobile applications.
+# 🚀TechQuitoesTechnologies
+
+Empowering Your Digital Future
+Delivering Intelligent Digital Solutions That Drive Business Growths.
 
 ---
 
 ## 🏢 About Us
-- 💼 Company Name: MyCompany Technologies
+- 💼 Company Name: TechQuitoes Technologies
 - 🌍 Location: India
 - 🛠️ Services:
-  - Web Development
-  - Mobile App Development
-  - Automation & APIs
-  - Cloud Solutions
+  - Website Design & Development
+  - Mobile Applications
+  - UI / UX Design
+  - E-Commerce Websites  
+  - AI & Automation
+  - Cloud & DevOps
+  - Data Analytics & Dashboards
+  - techQ Design Studio
+  - Build Your Online Store
+  - Grow Your Network – Hire Talent
+  - 3D Studio – Booth Design
+  - Hosting, Maintenance & Support
+  - Reliable hosting & long-term support.
 
 ---
 
