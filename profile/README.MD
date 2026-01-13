@@ -1,5 +1,5 @@
 # TechQuties
-# 🚀 MyCompany Technologies
+# 🚀TechQutiesTechnologies
 
 We are a software development company focused on building scalable, secure,
 and high-performance web & mobile applications.
