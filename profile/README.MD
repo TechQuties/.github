@@ -4,7 +4,7 @@
 # <p align="center">TechQuitoes Technologies</p>
 
 <p align="center">
-  <img src="https://github.com/TechQuitoes/.github/profile/bannert.png?raw=true" width="100%" alt="TechQuitoes Banner">
+  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/bannert.png?raw=true" width="100%" alt="TechQuitoes Banner">
 </p>
 
 <p align="center">
