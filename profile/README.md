@@ -10,6 +10,28 @@
 </p>
 
 ---
+
+
+## 🚀 Who We Are
+
+**Techquitoes** is a startup-focused digital solutions company specializing in **Data Analytics** and **Business Process Automation**, helping businesses transform data into actionable insights and automate operations for better efficiency and smarter decision-making.
+
+Alongside analytics and automation, we deliver **cost-effective web and mobile app development services** to clients worldwide, supporting startups, SMEs, and fast-growing businesses.
+
+We operate as a **borderless, remote-first team**, collaborating with skilled professionals across regions. This model enables our clients to reduce costs, scale faster, and access specialized talent without compromising quality or communication.
+
+Our approach is driven by **clear requirements, transparent workflows, and consistent delivery**. We focus on building long-term partnerships and achieving measurable outcomes, making Techquitoes a trusted remote partner on platforms like **Upwork** and **Clutch**.
+
+---
+
+## 🛠 Our Services
+
+- 📊 Data Analytics & Visualization  
+- ⚙️ Business Process Automation  
+- 🌐 Web Application Development  
+- 📱 Mobile App Development  
+- 🤖 AI & Workflow Automation  
+
 ## 🌟 What Sets Us Apart?
 
 <table border="0">
