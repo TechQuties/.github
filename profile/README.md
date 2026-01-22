@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://github.com/TechQuitoes/.github/blob/main/profile/TQ_logo.png" 
-    width="35" 
+    width="45" 
     style="vertical-align: middle;" 
     alt="TechQuitoes Logo"
   />
@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/Techquitoesbanner.png" alt="TechQuitoes Banner">
+  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/TQbanner.png" alt="TechQuitoes Banner">
 </p>
 
 <p align="center">
